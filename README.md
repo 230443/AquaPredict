@@ -1,4 +1,5 @@
 # AquaPredict
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/230443/AquaPredict/prepare_dataset)
 
 ## Contributing
 
